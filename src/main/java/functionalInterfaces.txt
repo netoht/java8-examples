@@ -1,0 +1,10 @@
+Interface Consumer.java
+
+    Utilizando essa interface que possui o método abstrado accept, e você pode executar o que achar interessante
+    com o parâmetro recebido.
+
+
+Interface Predicate
+
+    O Predicate é uma interface funcional que permite testar objetos de um determinado tipo. Dado um Predicate,
+    o removeIf vai remover todos os elementos que devolverem true para esse predicado.
