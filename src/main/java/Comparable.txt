@@ -1,0 +1,5 @@
+Utilize os comparators já existentes
+
+    java.lang.String.CASE_INSENSITIVE_ORDER
+    java.text.Collator.getInstance()
+    java.util.Comparator<T>.*

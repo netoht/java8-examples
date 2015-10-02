@@ -1,3 +1,4 @@
+package book;
 class Usuario {
 
     private String nome;
@@ -24,5 +25,10 @@ class Usuario {
 
     public boolean isModerador() {
         return moderador;
+    }
+
+    @Override
+    public String toString() {
+        return "Usuario [nome=" + nome + ", pontos=" + pontos + ", moderador=" + moderador + "]";
     }
 }

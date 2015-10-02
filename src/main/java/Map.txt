@@ -1,0 +1,11 @@
+interface java.util.Map<K, V>
+
+    A interface ganhou os métodos:
+        compute
+        computeIfPresent
+        computeIfAbsent
+        getOrDefault
+        merge
+        putIfAbsent
+        replace
+        replaceAll
